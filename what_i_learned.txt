@@ -1,3 +1,16 @@
+Git gebruiken om je code bij te houden.
+Een repository gebruiken om je projectbestanden op te slaan.
+GitHub gebruiken om je projecten online te bewaren.
+Pullen (Pull) om de nieuwste bestanden van GitHub naar Visual Studio te halen.
+Pushen (Push) om jouw aangepaste bestanden naar GitHub te sturen.
+Committen (Commit) om wijzigingen op te slaan met een beschrijving.
+Samenwerken door wijzigingen met anderen te delen via GitHub.
+Omgaan met wijzigingen in bestanden en synchronisatieproblemen.
+
+Ik heb geleerd hoe ik Git en GitHub kan gebruiken om mijn projecten te beheren. 
+Ik weet hoe ik wijzigingen kan opslaan met een commit, mijn bestanden kan pushen 
+naar GitHub en de nieuwste bestanden kan ophalen met pull. Ook heb ik geleerd hoe 
+Git helpt bij het samenwerken en het bijhouden van verschillende versies van mijn projecten.
 Wat ik heb geleerd over Git
 
 Tijdens de workshops heb ik geleerd hoe Git werkt en waarom het handig is voor samenwerking aan projecten.
