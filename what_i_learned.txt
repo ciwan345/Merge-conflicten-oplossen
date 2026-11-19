@@ -17,6 +17,17 @@ Wat ik nog wil leren:
 - Hoe GitHub Actions werken.
 - Hoe grote teams Git gebruiken in echte projecten.
 - Meer commando's voor het terugzetten van fouten.
+What I learned – Git Workshops 
+Ik heb geleerd hoe ik mijn eigen branch kan gebruiken, zodat ik apart van mijn klasgenoot aan mijn bestanden kan werken.
+Ik heb onder andere deze commando's gebruikt:
+git branch
+git switch Mohamed-branch
+git branch -a 
+Ik heb hiermee mijn branches bekeken en naar mijn eigen branch gewisseld.
+
+ik heb hiervoor Git Bash gebruikt met het commando:
+git clone https://github.com/gebruikersnaam/repository.git
+Hierdoor kon ik lokaal met de bestanden van de repository werken. 
 Wat ik heb geleerd tijdens de afgelopen 3 Git-opdrachten:
 
 1. Ik heb geleerd hoe ik een Git-repository aanmaak.
