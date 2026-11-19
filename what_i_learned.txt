@@ -11,3 +11,45 @@ Ik heb geleerd hoe ik Git en GitHub kan gebruiken om mijn projecten te beheren.
 Ik weet hoe ik wijzigingen kan opslaan met een commit, mijn bestanden kan pushen 
 naar GitHub en de nieuwste bestanden kan ophalen met pull. Ook heb ik geleerd hoe 
 Git helpt bij het samenwerken en het bijhouden van verschillende versies van mijn projecten.
+Wat ik heb geleerd over Git
+
+Tijdens de workshops heb ik geleerd hoe Git werkt en waarom het handig is voor samenwerking aan projecten.
+
+Ik heb geleerd:
+- Een repository aanmaken en clonen.
+- Bestanden toevoegen met git add.
+- Wijzigingen opslaan met git commit.
+- Mijn werk uploaden naar GitHub met git push.
+- Een branch maken en gebruiken.
+- Samenwerken met andere ontwikkelaars via GitHub.
+- Branches mergen naar de main branch.
+- Conflicten herkennen en oplossen tijdens een merge.
+
+Wat ik nog wil leren:
+- Wanneer je het beste verschillende soorten branches gebruikt.
+- Hoe GitHub Actions werken.
+- Hoe grote teams Git gebruiken in echte projecten.
+- Meer commando's voor het terugzetten van fouten.
+What I learned – Git Workshops 
+Ik heb geleerd hoe ik mijn eigen branch kan gebruiken, zodat ik apart van mijn klasgenoot aan mijn bestanden kan werken.
+Ik heb onder andere deze commando's gebruikt:
+git branch
+git switch Mohamed-branch
+git branch -a 
+Ik heb hiermee mijn branches bekeken en naar mijn eigen branch gewisseld.
+
+ik heb hiervoor Git Bash gebruikt met het commando:
+git clone https://github.com/gebruikersnaam/repository.git
+Hierdoor kon ik lokaal met de bestanden van de repository werken. 
+Wat ik heb geleerd tijdens de afgelopen 3 Git-opdrachten:
+
+1. Ik heb geleerd hoe ik een Git-repository aanmaak.
+2. Ik heb geleerd hoe ik `git add` en `git commit` gebruik.
+3. Ik heb geleerd hoe ik branches aanmaak en ertussen wissel.
+4. Ik heb geleerd hoe ik wijzigingen naar GitHub push en ervan ophaal (pull).
+
+Wat ik nog wil leren:
+
+1. Hoe ik merge-conflicten oplos.
+2. Hoe ik `git rebase` gebruik.
+3. Hoe ik met pull requests werk...
