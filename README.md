@@ -1,1 +1,12 @@
-what_i_learned.txt
+Wat ik heb geleerd ?
+
+1. Ik heb geleerd hoe ik een Git-repository aanmaak.
+2. Ik heb geleerd hoe ik `git add` en `git commit` gebruik.
+3. Ik heb geleerd hoe ik branches aanmaak en ertussen wissel.
+4. Ik heb geleerd hoe ik wijzigingen naar GitHub push en ervan ophaal (pull).
+
+Wat ik nog wil leren:
+
+1. Hoe ik merge-conflicten oplos.
+2. Hoe ik `git rebase` gebruik.
+3. Hoe ik met pull requests werk.
