@@ -1,3 +1,22 @@
+Wat ik heb geleerd over Git
+
+Tijdens de workshops heb ik geleerd hoe Git werkt en waarom het handig is voor samenwerking aan projecten.
+
+Ik heb geleerd:
+- Een repository aanmaken en clonen.
+- Bestanden toevoegen met git add.
+- Wijzigingen opslaan met git commit.
+- Mijn werk uploaden naar GitHub met git push.
+- Een branch maken en gebruiken.
+- Samenwerken met andere ontwikkelaars via GitHub.
+- Branches mergen naar de main branch.
+- Conflicten herkennen en oplossen tijdens een merge.
+
+Wat ik nog wil leren:
+- Wanneer je het beste verschillende soorten branches gebruikt.
+- Hoe GitHub Actions werken.
+- Hoe grote teams Git gebruiken in echte projecten.
+- Meer commando's voor het terugzetten van fouten.
 What I learned – Git Workshops 
 Ik heb geleerd hoe ik mijn eigen branch kan gebruiken, zodat ik apart van mijn klasgenoot aan mijn bestanden kan werken.
 Ik heb onder andere deze commando's gebruikt:
