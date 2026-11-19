@@ -39,4 +39,4 @@ Wat ik nog wil leren:
 
 1. Hoe ik merge-conflicten oplos.
 2. Hoe ik `git rebase` gebruik.
-3. Hoe ik met pull requests werk.
+3. Hoe ik met pull requests werk...
